@@ -11,6 +11,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<h2> 뷰티타임 </h2>
+<h2> 뷰티타임123 </h2>
 </body>
 </html>
